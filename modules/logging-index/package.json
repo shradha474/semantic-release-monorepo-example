@@ -36,10 +36,10 @@
           "@semantic-release/github",
           {
               "assets":
-              [{
+              [
                 "path" : "docs/**"
-              }]
-          }],
+              ]
+          }]
       ]
   },
   "scripts": {
