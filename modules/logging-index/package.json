@@ -37,7 +37,7 @@
           {
               "assets":
               [{
-                "path" : "logging-index"
+                "path" : "semantic-release-monorepo-example/modules/logging-index/**"
               }]
           }]
       ]
