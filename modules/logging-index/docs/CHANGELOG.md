@@ -1,3 +1,10 @@
+# [logging-index-v1.1.24](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.23...logging-index-1.1.24) (2022-09-05)
+
+
+### Bug Fixes
+
+* checking the version ([d15ba71](https://github.com/shradha474/semantic-release-monorepo-example/commit/d15ba7104143457bad76857d331d1d0a504fb90c))
+
 # [logging-index-v1.1.23](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.22...logging-index-1.1.23) (2022-09-05)
 
 
