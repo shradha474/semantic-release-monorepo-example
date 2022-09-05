@@ -1,3 +1,10 @@
+# [logging-index-v1.1.26](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.25...logging-index-1.1.26) (2022-09-05)
+
+
+### Bug Fixes
+
+* triggering the release ([331b8d5](https://github.com/shradha474/semantic-release-monorepo-example/commit/331b8d5c705e4acd57ad31d12604d5f1ac6aa6fd))
+
 # [logging-index-v1.1.25](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.24...logging-index-1.1.25) (2022-09-05)
 
 
