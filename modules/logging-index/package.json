@@ -24,6 +24,17 @@
               }
           ],
           [
+           "@semantic-release/github",
+           {
+              "assets": [
+                 {
+                    "path": "docs/logging-indexes.zip",
+                    "label": "logging-indexes-${nextRelease.gitTag}"
+                 }
+              ]
+           }
+          ],
+          [
               "@semantic-release/git",
               {
                   "assets": [
@@ -31,18 +42,7 @@
                       ".version"
                   ]
               }
-          ],
-          [
-           "@semantic-release/github",
-           {
-              "assets": [
-                 {
-                    "path": "docs/**",
-                    "label": "logging-indexes-${nextRelease.gitTag}"
-                 }
-              ]
-           }
-         ]
+          ]
       ]
   },
   "scripts": {
