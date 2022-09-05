@@ -1,3 +1,10 @@
+# [logging-index-v1.1.20](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.19...logging-index-1.1.20) (2022-09-05)
+
+
+### Bug Fixes
+
+* Updating the path ([0a65c17](https://github.com/shradha474/semantic-release-monorepo-example/commit/0a65c1730271c0fd6a2692c6e5a836d649194455))
+
 # [logging-index-v1.1.19](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.18...logging-index-1.1.19) (2022-09-05)
 
 
