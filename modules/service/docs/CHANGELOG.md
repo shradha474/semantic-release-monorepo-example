@@ -1,3 +1,10 @@
+# [service-v1.1.17](https://github.com/shradha474/semantic-release-monorepo-example/compare/service-1.1.16...service-1.1.17) (2022-09-05)
+
+
+### Bug Fixes
+
+* updating service module ([16a863f](https://github.com/shradha474/semantic-release-monorepo-example/commit/16a863fa3d157fb0bec2b4d6dcb2d0d429ec4bf8))
+
 # [service-v1.1.16](https://github.com/shradha474/semantic-release-monorepo-example/compare/service-1.1.15...service-1.1.16) (2022-09-05)
 
 
