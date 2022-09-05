@@ -22,7 +22,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     - name: ZIP build
-      run: cd modules/service && for moduleName in service logging-index; do zip -r ${moduleName}.zip . -i ${moduleName}; done;
+      run: cd modules/ && for moduleName in service logging-index; do zip -r ${moduleName}.zip ${moduleName}; ls -al; done;
 
 
 
