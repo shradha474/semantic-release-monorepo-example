@@ -32,7 +32,17 @@
                   ]
               }
           ],
-          "@semantic-release/github"
+          [
+           "@semantic-release/github",
+           {
+              "assets": [
+                 {
+                    "path": "service.zip",
+                    "label": "-${nextRelease.gitTag}"
+                 }
+              ]
+           }
+          ]
       ]
   },
   "scripts": {
