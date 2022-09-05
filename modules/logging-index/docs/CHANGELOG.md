@@ -1,3 +1,10 @@
+# [logging-index-v1.1.18](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.17...logging-index-1.1.18) (2022-09-05)
+
+
+### Bug Fixes
+
+* updating zip command ([32e4455](https://github.com/shradha474/semantic-release-monorepo-example/commit/32e445552099c0bd630e50b39b03bd3b0a374894))
+
 # [logging-index-v1.1.17](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.16...logging-index-1.1.17) (2022-09-05)
 
 
