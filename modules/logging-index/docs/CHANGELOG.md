@@ -1,3 +1,10 @@
+# [logging-index-v1.1.25](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.24...logging-index-1.1.25) (2022-09-05)
+
+
+### Bug Fixes
+
+* checking if file upload or not ([3bb6e7f](https://github.com/shradha474/semantic-release-monorepo-example/commit/3bb6e7fa7df0bf4fe89072bff58ece6963cdb0ac))
+
 # [logging-index-v1.1.24](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.23...logging-index-1.1.24) (2022-09-05)
 
 
