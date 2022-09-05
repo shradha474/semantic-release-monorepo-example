@@ -37,9 +37,7 @@
           {
               "assets":
               [{
-                "path" : "logging-index",
-                "name" : "logging-index-${nextRelease.gitTag}",
-                "label": "logging-index ${nextRelease.gitTag}"
+                "path" : "logging-index"
               }]
           }]
       ]
