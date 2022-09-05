@@ -1,3 +1,10 @@
+# [service-v1.1.16](https://github.com/shradha474/semantic-release-monorepo-example/compare/service-1.1.15...service-1.1.16) (2022-09-05)
+
+
+### Bug Fixes
+
+* change repo name ([460b460](https://github.com/shradha474/semantic-release-monorepo-example/commit/460b460c9f8357b411f4b7762d2440d9e3892774))
+
 # [service-v1.1.15](https://github.com/usmansharifkhan/semantic-release-monorepo-example/compare/service-1.1.14...service-1.1.15) (2022-06-14)
 
 
