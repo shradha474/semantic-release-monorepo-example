@@ -1,3 +1,10 @@
+# [logging-index-v1.1.22](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.21...logging-index-1.1.22) (2022-09-05)
+
+
+### Bug Fixes
+
+* adding doc path ([f7ee5e1](https://github.com/shradha474/semantic-release-monorepo-example/commit/f7ee5e1b29b14e147f8f3e2e526ce1fd2e48c27a))
+
 # [logging-index-v1.1.21](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.20...logging-index-1.1.21) (2022-09-05)
 
 
