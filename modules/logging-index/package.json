@@ -37,7 +37,7 @@
            {
               "assets": [
                  {
-                    "path": "logging-index",
+                    "path": "logging-index.zip",
                     "label": "logging-index-${nextRelease.gitTag}"
                  }
               ]
