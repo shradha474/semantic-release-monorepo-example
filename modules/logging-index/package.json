@@ -33,13 +33,15 @@
               }
           ],
           [
-          "@semantic-release/github",
-          {
-              "assets":
-              [
-                "path" : "docs/**"
+           "@semantic-release/github",
+           {
+              "assets": [
+                 {
+                    "path": "docs/**"
+                 }
               ]
-          }]
+           }
+         ]
       ]
   },
   "scripts": {
