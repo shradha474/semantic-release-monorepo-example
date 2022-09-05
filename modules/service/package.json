@@ -2,7 +2,7 @@
   "name": "service",
   "version": "0.0.0-semantic-release",
   "description": "Subpackage",
-  "repository": "https://github.com/usmansharifkhan/semantic-release-monorepo-example",
+  "repository": "https://github.com/shradha474/semantic-release-monorepo-example",
   "release": {
       "tagFormat": "service-${version}",
       "plugins": [
