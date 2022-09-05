@@ -1,3 +1,16 @@
+# [logging-index-v1.1.12](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.11...logging-index-1.1.12) (2022-09-05)
+
+
+### Bug Fixes
+
+* create release ([be264d6](https://github.com/shradha474/semantic-release-monorepo-example/commit/be264d603ac8eebd7179a2a728093c047bca8205))
+* release new version ([c62c91b](https://github.com/shradha474/semantic-release-monorepo-example/commit/c62c91bf55b45132ee689a95a6ab15c5e6551225))
+* release the new tag ([ebdf2d4](https://github.com/shradha474/semantic-release-monorepo-example/commit/ebdf2d47f881063364e78d5ac600306f9fa29e42))
+* test ([214fe40](https://github.com/shradha474/semantic-release-monorepo-example/commit/214fe40edd010e453bc371ede9e0a571091f3787))
+* test ([98beaf8](https://github.com/shradha474/semantic-release-monorepo-example/commit/98beaf8ae3e375364b3ebd3d9cc964c0c0b25db4))
+* testing ([0d885e0](https://github.com/shradha474/semantic-release-monorepo-example/commit/0d885e075bdea63d26986682aff30661784c611f))
+* testing the release ([d943612](https://github.com/shradha474/semantic-release-monorepo-example/commit/d943612a4990202392f66fb2d0d3f49b93821364))
+
 # [logging-index-v1.1.11](https://github.com/usmansharifkhan/semantic-release-monorepo-example/compare/logging-index-1.1.10...logging-index-1.1.11) (2022-06-14)
 
 
