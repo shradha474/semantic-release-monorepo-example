@@ -1,3 +1,10 @@
+# [logging-index-v1.1.17](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.16...logging-index-1.1.17) (2022-09-05)
+
+
+### Bug Fixes
+
+* adding zip file as assets ([73b659f](https://github.com/shradha474/semantic-release-monorepo-example/commit/73b659f8739984c2bc73fe6958195f9d2621d1c5))
+
 # [logging-index-v1.1.16](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.15...logging-index-1.1.16) (2022-09-05)
 
 
