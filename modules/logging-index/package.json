@@ -37,9 +37,9 @@
           {
               "assets":
               [{
-                "path" : "modules/logging-index/**"
+                "path" : "docs/**"
               }]
-          }]
+          }],
       ]
   },
   "scripts": {
