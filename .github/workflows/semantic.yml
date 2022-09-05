@@ -17,7 +17,7 @@ jobs:
       run: apk add git && npm ci && apk add zip
       
     - name: ZIP build
-      run: cd modules/ && for moduleName in service logging-index; do zip -r ${moduleName}.zip ${moduleName}; ls -al; pwd; done;
+      run: cd modules/ && for moduleName in service logging-index; do zip -r ${moduleName}.zip ${moduleName}; move ${moduleName}.zip ${moduleName}/; ls -al; pwd; done;
 
     - name: Launch semantic for service
       run: cd modules/service && for moduleName in service logging-index; do cd ../${moduleName} && npx semantic-release -e semantic-release-monorepo; done;
