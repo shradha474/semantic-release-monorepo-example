@@ -1,3 +1,10 @@
+# [logging-index-v1.1.21](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.20...logging-index-1.1.21) (2022-09-05)
+
+
+### Bug Fixes
+
+* adding the assets ([2880c6e](https://github.com/shradha474/semantic-release-monorepo-example/commit/2880c6ea192de8099832d65a0569d4d7d7f6f976))
+
 # [logging-index-v1.1.20](https://github.com/shradha474/semantic-release-monorepo-example/compare/logging-index-1.1.19...logging-index-1.1.20) (2022-09-05)
 
 
