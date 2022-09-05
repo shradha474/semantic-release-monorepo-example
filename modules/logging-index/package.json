@@ -38,8 +38,8 @@
               "assets":
               [{
                 "path" : "logging-index",
-                "name" : "logging-${nextRelease.gitTag}",
-                "label": "logging-test ${nextRelease.gitTag}"
+                "name" : "logs-index-${nextRelease.gitTag}",
+                "label": "logs-index ${nextRelease.gitTag}"
               }]
           }]
       ]
